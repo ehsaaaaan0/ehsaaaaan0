@@ -1,5 +1,27 @@
 # 💫 About Me:
-I'm Ehsan Abid, an Android developer with over two years of experience in Java, Kotlin, and Flutter. I have a strong foundation in the Android SDK and Android Studio and have worked on a variety of projects, including social media apps, e-commerce platforms, and productivity tools. My focus is on developing user-friendly, high-performance mobile applications that are both scalable and robust.<br><br>I have hands-on experience in both native and cross-platform development and specialize in troubleshooting, debugging, and optimizing app performance. I'm passionate about leveraging the latest technologies to create innovative solutions that exceed user expectations.<br><br>Currently, I'm pursuing a Master's in Computer Science at the University of Vienna, where I continue to expand my expertise in mobile app development and software engineering.
+I am a Software Engineer with hands-on experience in Java development, Spring Boot, and mobile app development (Android). I have worked on backend APIs, database-driven applications, and mobile applications with clean UI, efficient architecture, and strong performance.
+
+My experience includes:
+
+Building Android applications using Java/Kotlin, XML, and Firebase
+
+Developing backend services with Java, Spring Boot, REST APIs, MySQL
+
+Working with Git, GitHub/GitLab, Docker, and CI/CD pipelines
+
+Implementing authentication, CRUD modules, and scalable backend logic
+
+Designing and developing full-stack academic and real-world projects
+
+I enjoy learning new tools, improving existing systems, and solving real-world problems through clean, maintainable software.
+
+I am currently open to roles in:
+✔ Java Developer
+✔ Spring Boot / Backend Developer
+✔ Android (Mobile App) Developer
+✔ Full-stack / Software Engineering roles
+
+Always open to connecting with professionals, recruiters, and teams building something meaningful..
 
 
 ## 🌐 Socials:
